@@ -1,3 +1,4 @@
 models/
 results/
-train/
+Add-Content .gitignore 
+desktop.ini
