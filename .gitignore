@@ -1,4 +1,5 @@
-models/
-results/
-Add-Content .gitignore 
-desktop.ini
+models/*
+!models/
+results/*
+!results/
+*.ini
