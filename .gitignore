@@ -1,5 +1,12 @@
 models/*
-!models/
+!models/.gitkeep
 results/*
-!results/
+!results/.gitkeep
 *.ini
+
+# Abaikan semua file model PyTorch
+*.pt
+*.pth
+
+# TAPI, jangan abaikan file .gitkeep
+!*.gitkeep

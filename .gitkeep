@@ -1,2 +1,2 @@
-models/
-results/
+models\train\model_22.pt
+models\batik_parang\model_8.pt
