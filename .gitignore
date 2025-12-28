@@ -1,12 +1,73 @@
-!models/.gitkeep
-results/*
-!results/.gitkeep
-*.ini
-
 # Abaikan semua file model PyTorch
 *.pt
 *.pth
 
-!models/train/model_22.pt
-!models/batik_parang/model_8.pt
-!models/batik_kawung/model_12.pt
+# ===============================
+# Python
+# ===============================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ===============================
+# Virtual Environment
+# ===============================
+venv/
+env/
+.venv/
+ENV/
+
+# ===============================
+# Environment variables / secrets
+# ===============================
+.env
+.env.*
+*.env
+
+# ===============================
+# Logs & runtime files
+# ===============================
+*.log
+logs/
+
+# ===============================
+# Build & distribution
+# ===============================
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ===============================
+# Testing & coverage
+# ===============================
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# ===============================
+# IDE / Editor
+# ===============================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ===============================
+# OS files
+# ===============================
+.DS_Store
+Thumbs.db
+
+# ===============================
+# Jupyter Notebook
+# ===============================
+.ipynb_checkpoints/
+
+# ===============================
+# Temporary files
+# ===============================
+*.tmp
+*.bak

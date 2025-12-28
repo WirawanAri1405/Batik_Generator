@@ -1,0 +1,8 @@
+--TRAINING--
+
+lightweight_gan --data ../batik_train/batik-megamendung --image-size 256 --batch-size 16 --num-train-steps 20000 --name batik_megamendung --amp --aug-prob 0.25 --save-every 200
+
+
+--GENERATE--
+
+lightweight_gan --generate --name batik_megamendung --num-images 16
