@@ -2,7 +2,8 @@
 results/*
 !results/.gitkeep
 *.ini
-
+video/
+documents/Laporan Final Project Kelompok14.docx
 # Abaikan semua file model PyTorch
 *.pt
 *.pth
