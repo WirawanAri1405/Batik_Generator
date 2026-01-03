@@ -6,6 +6,7 @@ Proyek ini bertujuan untuk menghasilkan citra motif batik sintetik berkualitas t
 * **Dokumen Laporan Final Project:** [Dokumen(PDF)](https://drive.google.com/file/d/1W5eXhJe_OI6jqs2N3mFKg11OycJg7nmz/view?usp=sharing)
 * **Dokumen Laporan Cek Turnitin:** [Dokumen(PDF)](https://drive.google.com/file/d/1NFwxHCn3neVxXRkCVUHXIygTZc0V9f9E/view?usp=sharing)
 * **Dokumen Laporan Cek Zero GPT:** [Dokumen(PDF)](https://drive.google.com/file/d/1ccItjIURFpF1iYgnpTj6Mp92b8q8X_Ms/view?usp=sharing)
+* **PPT Presentasi:** [Dokumen(PPTX)](https://docs.google.com/presentation/d/1H1Z_os5oZ8XD2CZY64bG6Tzzyi34T522/edit?usp=sharing&ouid=102699925161236039170&rtpof=true&sd=true)
 * **Video Demo/Presentasi:** [Video Demo (Google Drive)](https://drive.google.com/file/d/1CX9W4rbr3puyhVlhjfkcSlzFLoKFwuJF/view?usp=drive_link)
 
 ## 👥 Anggota Kelompok 14
@@ -14,9 +15,9 @@ Berikut adalah kontribusi anggota tim dalam pengerjaan proyek ini:
 
 | NIM | Nama | Peran & Kontribusi |
 | :--- | :--- | :--- |
-| **1.23.11.5595** | **Wirawan Ariyoso** | Mencari dataset, melatih model, membuat laporan & video  |
-| **2.23.11.5596** | **Yuafiq Alfin Al Khasan** | Mencari dataset, melakukan EDA (Exploratory Data Analysis), melatih model |
-| **3.23.11.5609** | **Adhitya Surya Handika** | Melatih model, membuat laporan, cek plagiarisme & AI |
+| **23.11.5595** | **Wirawan Ariyoso** | Mencari dataset, melatih model, membuat laporan & video  |
+| **23.11.5596** | **Yuafiq Alfin Al Khasan** | Mencari dataset, melakukan EDA (Exploratory Data Analysis), melatih model |
+| **23.11.5609** | **Adhitya Surya Handika** | Melatih model, membuat laporan, cek plagiarisme & AI |
 
 ## 📖 Latar Belakang
 
