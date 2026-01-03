@@ -56,11 +56,11 @@ Evaluasi dilakukan berdasarkan skor FID (semakin rendah semakin baik).
 
 <img src="./templates/kawung.png" width="600px"></img>
 
-*256x256 batik parang setelah training selama 3 jam, 1 gpu T4*
+*256x256 batik kawung setelah training selama 3 jam, 1 gpu T4*
 
 <img src="./templates/megamendung.png" width="600px"></img>
 
-*256x256 batik parang setelah training selama 2 hari, 1 gpu RTX 3060*
+*256x256 batik megamendung setelah training selama 2 hari, 1 gpu RTX 3060*
 
 ### Kesimpulan Hasil
 * **Batch Size:** Penggunaan batch size besar (64) pada Batik Megamendung terbukti krusial menghasilkan skor FID terbaik (150).
