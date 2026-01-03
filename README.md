@@ -48,6 +48,18 @@ Evaluasi dilakukan berdasarkan skor FID (semakin rendah semakin baik).
 | A (Scratch) | Batik Megamendung | 20.000 | 64 | **150** | **Hasil Terbaik.** Batch size besar meningkatkan stabilitas  |
 | B (Transfer) | Batik Kawung | 30.000 | 16 | **189** |Transfer learning mempercepat konvergensi  |
 
+<img src="./templates/parang.png" width="600px"></img>
+
+*256x256 batik parang setelah training selama 8 jam, 1 gpu T4*
+
+<img src="./templates/kawung.png" width="600px"></img>
+
+*256x256 batik parang setelah training selama 3 jam, 1 gpu T4*
+
+<img src="./templates/megamendung.png" width="600px"></img>
+
+*256x256 batik parang setelah training selama 2 hari, 1 gpu RTX 3060*
+
 ### Kesimpulan Hasil
 * **Batch Size:** Penggunaan batch size besar (64) pada Batik Megamendung terbukti krusial menghasilkan skor FID terbaik (150).
 * **Transfer Learning:** Efektif untuk adaptasi domain baru.Batik Kawung mencapai FID 189 dengan memanfaatkan bobot dari Batik Parang, jauh lebih baik daripada pelatihan dari nol pada dataset yang sulit.
