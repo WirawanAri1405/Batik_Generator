@@ -3,7 +3,9 @@
 Proyek ini bertujuan untuk menghasilkan citra motif batik sintetik berkualitas tinggi menggunakan arsitektur **Lightweight GAN** (Generative Adversarial Networks). Pendekatan ini dirancang untuk mengatasi tantangan *few-shot learning* (keterbatasan data) dan efisiensi komputasi dalam pelestarian budaya digital.
 ## 📄 Tautan Penting
 
-* **Dokumen Laporan Lengkap:** [Laporan Final Project (Google Docs)](https://docs.google.com/document/d/1d-AOAJsi9J_DRJyoJOBORlCdr-EGeSHU/edit?usp=sharing&ouid=102699925161236039170&rtpof=true&sd=true)
+* **Dokumen Laporan Final Project:** [Dokumen(PDF)](https://drive.google.com/file/d/1W5eXhJe_OI6jqs2N3mFKg11OycJg7nmz/view?usp=sharing)
+* **Dokumen Laporan Cek Turnitin:** [Dokumen(PDF)](https://drive.google.com/file/d/1NFwxHCn3neVxXRkCVUHXIygTZc0V9f9E/view?usp=sharing)
+* **Dokumen Laporan Cek Zero GPT:** [Dokumen(PDF)](https://drive.google.com/file/d/1NFwxHCn3neVxXRkCVUHXIygTZc0V9f9E/view?usp=sharing)
 * **Video Demo/Presentasi:** [Video Demo (Google Drive)](https://drive.google.com/file/d/1CX9W4rbr3puyhVlhjfkcSlzFLoKFwuJF/view?usp=drive_link)
 
 ## 👥 Anggota Kelompok 14
@@ -13,7 +15,7 @@ Berikut adalah kontribusi anggota tim dalam pengerjaan proyek ini:
 | NIM | Nama | Peran & Kontribusi |
 | :--- | :--- | :--- |
 | **1.23.11.5595** | **Wirawan Ariyoso** | Mencari dataset, melatih model, membuat laporan & video  |
-| **2.23.11.5596** | **Yuafiq Alfin Al Khasan** | Mencari dataset, melakukan EDA (Exploratory Data Analysis), melatih model [cite: 122, 123] |
+| **2.23.11.5596** | **Yuafiq Alfin Al Khasan** | Mencari dataset, melakukan EDA (Exploratory Data Analysis), melatih model |
 | **3.23.11.5609** | **Adhitya Surya Handika** | Melatih model, membuat laporan, cek plagiarisme & AI |
 
 ## 📖 Latar Belakang
