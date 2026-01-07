@@ -73,6 +73,28 @@ Evaluasi dilakukan berdasarkan skor FID (semakin rendah semakin baik).
 Eksperimen dijalankan pada dua lingkungan:
 * **Google Colab:** GPU Tesla T4 (15GB).
 * **Lokal:** GPU RTX 3060 (12GB).
+  
+## 🚀 Cara Menjalankan Aplikasi (Inferensi)
+
+Ikuti langkah-langkah berikut untuk menjalankan sistem generator batik pada komputer lokal Anda:
+
+### 1. Instalasi Dependensi
+Install seluruh library yang dibutuhkan yang terdaftar di `requirements.txt`:
+
+```bash
+pip install -r requirements.txt
+```
+### 2. Menjalankan Server Flask
+```bash
+python app.py
+```
+### 3. proses infrensi gambar batik 
+
+https://github.com/user-attachments/assets/afdcee02-bd91-4de0-a836-2c6cc8079078
+
+
+https://github.com/user-attachments/assets/475bd41d-d773-47a1-a71c-0d6cc7b84e01
+
 
 ## 📚 Referensi Utama
 
