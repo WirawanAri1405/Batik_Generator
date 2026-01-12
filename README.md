@@ -1,4 +1,5 @@
 # Batik Generator Lightweight GAN - Kelompok 14
+<img src="./templates/poster.png" width="1000px"></img>
 
 Proyek ini bertujuan untuk menghasilkan citra motif batik sintetik berkualitas tinggi menggunakan arsitektur **Lightweight GAN** (Generative Adversarial Networks). Pendekatan ini dirancang untuk mengatasi tantangan *few-shot learning* (keterbatasan data) dan efisiensi komputasi dalam pelestarian budaya digital.
 ## 📄 Tautan Penting
@@ -6,6 +7,7 @@ Proyek ini bertujuan untuk menghasilkan citra motif batik sintetik berkualitas t
 * **Dokumen Laporan Final Project:** [Dokumen(PDF)](https://drive.google.com/file/d/1W5eXhJe_OI6jqs2N3mFKg11OycJg7nmz/view?usp=sharing)
 * **Dokumen Laporan Cek Turnitin:** [Dokumen(PDF)](https://drive.google.com/file/d/1NFwxHCn3neVxXRkCVUHXIygTZc0V9f9E/view?usp=sharing)
 * **Dokumen Laporan Cek Zero GPT:** [Dokumen(PDF)](https://drive.google.com/file/d/1ccItjIURFpF1iYgnpTj6Mp92b8q8X_Ms/view?usp=sharing)
+* **Dokumen Laporan Ignation:** [Dokumen(PDF)](https://github.com/WirawanAri1405/Batik_Generator/blob/main/documents/Proposal%20Ignition%20batik%20generator.pdf)
 * **PPT Presentasi:** [Dokumen(PPTX)](https://docs.google.com/presentation/d/1H1Z_os5oZ8XD2CZY64bG6Tzzyi34T522/edit?usp=sharing&ouid=102699925161236039170&rtpof=true&sd=true)
 * **Video Demo/Presentasi:** [Video Demo (Google Drive)](https://drive.google.com/file/d/1CX9W4rbr3puyhVlhjfkcSlzFLoKFwuJF/view?usp=drive_link)
 
